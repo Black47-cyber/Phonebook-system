@@ -33,6 +33,5 @@ STUDENT NAME: Elizabeth Hoyange Peter
 REGISTRATION NUMBER: 14320108/T.24
 COURSE NAME: Web Programming 
 
-- Registration Number: [Your Registration Number]
 - Course: Web Programming
 lo
